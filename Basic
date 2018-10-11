@@ -1,0 +1,3 @@
+SELECT LastName FROM Employees
+// select all the data in the "LastName" column from the "Employees" table
+
